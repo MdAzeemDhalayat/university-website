@@ -20,12 +20,7 @@ The "Contact" page of website serves as a vital point of interaction between the
 
 For students who have enrolled in our online courses, the website incorporates a secure and personalized "Student Portal." Accessible through a login page, this portal serves as a centralized hub for students in online courses.
 
-### Usage:
 
-- Clone the project:
-```
-  git clone https://github.com/Manuhegde1309/university-website.git
-```
 
 ### Run the following commands
 - In the frontend directory `npm run dev`
@@ -35,7 +30,4 @@ For students who have enrolled in our online courses, the website incorporates a
 
 ### Open your browser and search http://localhost:5173
 
-### To use the updated version of this app, refer to this repo:  [https://github.com/mfurqaan31/MERN-University-app](https://github.com/mfurqaan31/MERN-University-app)
-
 # Follow us and Star ⭐ the Repository
-[![GitHub](https://img.shields.io/badge/GitHub-mfurqaan31-black?&logo=github)](https://github.com/mfurqaan31) [![GitHub](https://img.shields.io/badge/GitHub-Manuhegde1309-black?&logo=github)](https://github.com/Manuhegde1309)
